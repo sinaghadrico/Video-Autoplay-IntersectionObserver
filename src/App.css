@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.videos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.video  {
+ height: 600px;
+ display: flex;
+ justify-content: center;
+ 
+}
+.video  video {
+    height: 250px;
+    margin: auto;
+    max-width: 400px;
+   }
